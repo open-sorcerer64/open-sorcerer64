@@ -7,7 +7,7 @@
 - I am not a big fan of [<img src="https://github.com/TaranVH/LOGOS/raw/master/Windows%2010%20logo.png" height=16px alt="Windows 10"/>](https://www.microsoft.com/windows/) and [<img src="https://raw.githubusercontent.com/lukas-w/font-logos/master/vectors/apple.svg" height=16px alt="Apples"/>](https://www.apple.com/macos) 
 - 🌱 I’m currently learning Python, C/C++ and Shell Script
 - 💬 Ask me about anything Raspberry Pi related
-- 📫 How to reach me: You can e-mail me at tejassingh890@gmail.com;  Not **Very** active on GitHub Repos; I also have a Discord TejasSinghYT#0537
+- 📫 How to reach me: You can e-mail me at tejassingh890@gmail.com;  Not **Very** active on GitHub Repos; I also have a Discord .Tejas.#2209
 - BTW, I use [<img src="https://raw.githubusercontent.com/lukas-w/font-logos/master/vectors/debian.svg" height="16px" alt="Debian"/>](https://www.debian.org/)Debian
 - ⚡ Fun fact: If you come to me saying, **I use [<img src="https://raw.githubusercontent.com/JotaRandom/archlinux-artwork/master/icons/archlinux-icon-crystal-64.svg" height="16px" alt="Arch"/>](https://archlinuxarm.org/) Arch BTW** You will be blocked instantly
 
