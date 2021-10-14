@@ -1,4 +1,4 @@
-### Hi there 👋 I am @open-sorcerer64 (Tejas Singh) and welcome to my <img src="https://user-images.githubusercontent.com/78641958/129145395-0ec0cd69-4400-4fff-aac9-a6dfba603b92.png" alt="Github"/> Profile
+### Hi there 👋 I am @open-sorcerer64 (Tejas Singh) and welcome to my GitHub Profile
 
 
 - I am 13 years old (as of 2021) with a GitHub account and YouTube Channel:- Tejas Singh YT https://www.youtube.com/channel/UCCsEfbaCHPjM0Dhx69TrJPw;
