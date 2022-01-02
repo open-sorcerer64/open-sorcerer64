@@ -4,25 +4,25 @@ My name is Tejas and I'm a programmer and a Linux enthusiast.
 My Favorite Programming Languages are Python and Bash!
 
 
-- I also run a YouTube channel [TechedOUT](https://www.youtube.com/channel/UCCsEfbaCHPjM0Dhx69TrJPw);
+- I also run a YouTube channel [TechedOUT](https://www.youtube.com/channel/UCCsEfbaCHPjM0Dhx69TrJPw).
 
-- I am interested in everything powered by [<img src="https://github.com/TaranVH/LOGOS/raw/master/ARM%20logo_blue_RGB.png" alt="ARM" width=32px/>](https://www.arm.com) SOCs;
+- I am interested in everything powered by [<img src="https://github.com/TaranVH/LOGOS/raw/master/ARM%20logo_blue_RGB.png" alt="ARM" width=32px/>](https://www.arm.com) SOCs.
 
-- I am obsessed with [![Raspberry Pi](https://github.com/iiiypuk/rpi-icon/raw/master/16.png)](https://www.raspberrypi.org) Raspberry Pi
+- I am obsessed with [![Raspberry Pi](https://github.com/iiiypuk/rpi-icon/raw/master/16.png)](https://www.raspberrypi.org) Raspberry Pi.
 
-- I am not a big fan of [<img src="https://github.com/TaranVH/LOGOS/raw/master/Windows%2010%20logo.png" height=16px alt="Windows 10"/>](https://www.microsoft.com/windows/) 
+- I am not a big fan of [<img src="https://github.com/TaranVH/LOGOS/raw/master/Windows%2010%20logo.png" height=16px alt="Windows 10"/>](https://www.microsoft.com/windows/). 
 
-- I wish to own an [<img src="https://raw.githubusercontent.com/lukas-w/font-logos/master/vectors/apple.svg" height=16px alt="Apples"/>](https://www.apple.com/macos) 
+- I wish to own an [<img src="https://raw.githubusercontent.com/lukas-w/font-logos/master/vectors/apple.svg" height=16px alt="Apples"/>](https://www.apple.com/macos). ;-;
 
 - 🌱 I’m currently learning: HTML,CSS and JavaScript.
 
-- 💬 Ask me about anything Raspberry Pi related
+- 💬 Ask me about anything Raspberry Pi related.
 
-- 📫 How to reach me: You can e-mail me at tejassingh890@gmail.com OR open an issue on [open-sorcerer64/open-sorcerer64](https://github.com/open-sorcerer64/open-sorcerer64/)
+- 📫 How to reach me: You can e-mail me at tejassingh890@gmail.com OR open an issue on [open-sorcerer64/open-sorcerer64](https://github.com/open-sorcerer64/open-sorcerer64/).
 
 - I use [<img src="https://raw.githubusercontent.com/lukas-w/font-logos/master/vectors/debian.svg" height="16px" alt="Debian"/>](https://www.debian.org/)Debian BTW!
 
-- ⚡ Fun fact: The world will end on [January 19th 2038](https://en.wikipedia.org/wiki/Year_2038_problem)
+- ⚡ Fun fact: The world will end on [January 19th 2038](https://en.wikipedia.org/wiki/Year_2038_problem).
 
 ![Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
