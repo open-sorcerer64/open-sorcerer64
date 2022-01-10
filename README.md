@@ -28,7 +28,7 @@ My Favorite Programming Languages are Python and Bash!
 ![Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Badge](https://img.shields.io/badge/-JavaScript-FCC624?style=for-the-badge&logo=Javascript)
+![Badge](https://img.shields.io/badge/-JavaScript-121011?style=for-the-badge&logo=Javascript)
 ![Badge](https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html)
 ![Badge](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS)
 ![Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
