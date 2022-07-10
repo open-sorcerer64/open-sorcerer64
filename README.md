@@ -1,3 +1,4 @@
+<!---
 ### Hi there 👋 
 
 My name is Tejas and I'm a programmer and a Linux enthusiast.
@@ -33,8 +34,41 @@ My Favorite Programming Languages are Python and Bash!
 ![Badge](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS)
 ![Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=open-sorcerer64&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=open-sorcerer64)](https://github.com/anuraghazra/github-readme-stats)
+
+---->
+
+
+I love open source. I am not a heavy maintainer of any large libraries, but I really like the boyscout rule. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with good example.
+
+
+```python
+import GitHub
+
+def __init__(user):
+  user.name = "Tejas"
+  user.role = "Student by day, Software Developer by night"
+  self.language_spoken = ["hi_IN", "en_US"]
+
+```
+
+
+<!--START_SECTION:activity--> 
+
+
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=open-sorcerer64&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
