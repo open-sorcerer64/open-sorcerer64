@@ -1,5 +1,4 @@
-<h1 align="left">Hi 👋, I'm Tejas</h1>
-<h3 align="left">A passionate software developer from India 🇮🇳</h3>
+![20220710_170815](https://user-images.githubusercontent.com/78641958/178143363-20a5b176-13c0-4909-84c6-a524a50d39c3.jpg)
 
 
 ```python
