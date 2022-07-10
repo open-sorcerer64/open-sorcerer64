@@ -1,74 +1,93 @@
-<!---
-### Hi there 👋 
-
-My name is Tejas and I'm a programmer and a Linux enthusiast.
-My Favorite Programming Languages are Python and Bash!
-
-
-- I also run a YouTube channel [TechedOUT](https://www.youtube.com/channel/UCCsEfbaCHPjM0Dhx69TrJPw).
-
-- I am interested in everything powered by [<img src="https://github.com/TaranVH/LOGOS/raw/master/ARM%20logo_blue_RGB.png" alt="ARM" width=32px/>](https://www.arm.com) SOCs.
-
-- I am obsessed with [![Raspberry Pi](https://github.com/iiiypuk/rpi-icon/raw/master/16.png)](https://www.raspberrypi.org) Raspberry Pi.
-
-- I am not a big fan of [<img src="https://github.com/TaranVH/LOGOS/raw/master/Windows%2010%20logo.png" height=16px alt="Windows 10"/>](https://www.microsoft.com/windows/). 
-
-- I wish to own an [<img src="https://raw.githubusercontent.com/lukas-w/font-logos/master/vectors/apple.svg" height=16px alt="Apples"/>](https://www.apple.com/macos). ;-;
-
-- 🌱 I’m currently learning: HTML,CSS and JavaScript.
-
-- 💬 Ask me about anything Raspberry Pi related.
-
-- 📫 How to reach me: You can e-mail me at tejassingh890@gmail.com OR open an issue on [open-sorcerer64/open-sorcerer64](https://github.com/open-sorcerer64/open-sorcerer64/).
-
-- I use [<img src="https://raw.githubusercontent.com/lukas-w/font-logos/master/vectors/debian.svg" height="16px" alt="Debian"/>](https://www.debian.org/)Debian BTW!
-
-- ⚡ Fun fact: The world will end on [January 19th 2038](https://en.wikipedia.org/wiki/Year_2038_problem).
-
-![Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Badge](https://img.shields.io/badge/-JavaScript-121011?style=for-the-badge&logo=Javascript)
-![Badge](https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html)
-![Badge](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS)
-![Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=open-sorcerer64&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=open-sorcerer64)](https://github.com/anuraghazra/github-readme-stats)
-
----->
-
-
-I love open source. I am not a heavy maintainer of any large libraries, but I really like the boyscout rule. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with good example.
+<h1 align="left">Hi 👋, I'm Tejas</h1>
+<h3 align="left">A passionate software developer from India 🇮🇳</h3>
 
 
 ```python
 import GitHub
 
 def __init__(user):
-  user.name = "Tejas"
+  user.name = "Singh, Tejas"
+  user.pronouns("He", "They")
+  user.age(14)
   user.role = "Student by day, Software Developer by night"
-  self.language_spoken = ["hi_IN", "en_US"]
+  user.language_spoken = ["hi_IN", "en_US"]
 
+print("Hello World!")
 ```
+
+
+
+
 
 
 <!--START_SECTION:activity--> 
 
 
 
-## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+
+<!--END_SECTION:activity--> 
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=open-sorcerer64&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+
+## Connect With Me
+<p align="left">
+<a href="https://dev.to/opensorcerer64" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="opensorcerer64" /></a>
+<a href="https://twitter.com/opensorcerer64" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="opensorcerer64" /></a>
+<a href="https://discord.gg/yHZRESvjWS" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)" alt="Discord Server" /></a>
+</p>
+
+
+## Technologies & Tools I use 
+
+<!---
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+![](
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)
+![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+![]()
+![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) --->
+
+![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+![](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
+
+![](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+
+![](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
+
+
+<details><summary> The BOY SCOUT RULE</summary>
+  I love open source software. But, I do not maintain any big projects or something like that (Why? I simply am too busy to do that), but what I really like is the, BOY SCOUT RULE. I contribute to things as I come across issues that I think other people might struggle with!
+</details>
+
