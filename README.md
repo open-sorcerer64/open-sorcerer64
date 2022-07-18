@@ -1,4 +1,4 @@
-![20220710_170815](https://user-images.githubusercontent.com/78641958/178143363-20a5b176-13c0-4909-84c6-a524a50d39c3.jpg)
+![github-header-image](https://user-images.githubusercontent.com/78641958/179437799-e958486a-d4c4-4359-b28e-5bb817d63dcb.png)
 
 
 ```python
@@ -15,6 +15,13 @@ print("Hello World!")
 ```
 
 
+<p align="center">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=open-sorcerer64&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+</p>
+
+<p align="center">
+	<img width="450em" src="http://github-readme-streak-stats.herokuapp.com?user=open-sorcerer64&theme=github-dark&hide_border=true"/>
+</p>
 
 
 
@@ -28,7 +35,6 @@ print("Hello World!")
 <!--END_SECTION:activity--> 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=open-sorcerer64&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 ## Connect With Me
 <p align="left">
