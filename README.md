@@ -15,25 +15,19 @@ print("Hello World!")
 ```
 
 
-<p align="center">
+<p>
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=open-sorcerer64&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
-</p>
-
-<p align="center">
 	<img width="450em" src="http://github-readme-streak-stats.herokuapp.com?user=open-sorcerer64&theme=github-dark&hide_border=true"/>
+
 </p>
 
-
-
-
-<!--START_SECTION:activity--> 
+[![@tejazz's Holopin board](https://holopin.me/tejazz)](https://holopin.io/@tejazz)
 
 
 
 
 
-<!--END_SECTION:activity--> 
-
+<!---
 
 
 ## Connect With Me
@@ -46,7 +40,6 @@ print("Hello World!")
 
 ## Technologies & Tools I use 
 
-<!---
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 ![](
@@ -54,7 +47,7 @@ print("Hello World!")
 ![](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)
 ![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 ![]()
-![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) --->
+![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) 
 
 ![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
@@ -91,6 +84,7 @@ print("Hello World!")
 ![](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
 
+---> 
 
 <details><summary> The BOY SCOUT RULE</summary>
   I love open source software. But, I do not maintain any big projects or something like that (Why? I simply am too busy to do that), but what I really like is the, BOY SCOUT RULE. I contribute to things as I come across issues that I think other people might struggle with!
